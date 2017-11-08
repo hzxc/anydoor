@@ -57,3 +57,16 @@ typings/
 # dotenv environment variables file
 .env
 
+#custom
+*.swp
+.idea/
+.DS_Store
+build/
+
+# dependencies
+node_modules/
+/bower_components
+
+# compiled output
+/dist
+/tmp
